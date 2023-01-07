@@ -15,6 +15,7 @@ body{
     background-color:black;
     position: sticky;
     top: 0;
+    z-index: 9999999;
 }
 
 .navbar-container{
