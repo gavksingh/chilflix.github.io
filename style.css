@@ -34,7 +34,7 @@ body{
 }
 .logo{
     font-family: 'Sen', sans-serif;
-    font-size: 35px;
+    font-size: 40px;
     color: #4dbf00;
 
 
@@ -138,7 +138,7 @@ body{
 }
 
 .content-container{
-    margin-left: 50px;
+    margin-left: 30px;
     
 }
 
@@ -308,10 +308,10 @@ body{
     transform: translateX(-20px);
 }
 
-@media only screen and (max-width: 600px){
-    .navbar{
+@media only screen and (max-width: 500px){
+    /* .navbar{
         width: 100%;
-    }
+    } */
     
     .menu-container{
         display: none;
@@ -343,7 +343,7 @@ body{
         margin-bottom: 35px;
     
     }
-    .content-container{
+    /* .content-container{
         margin-left: 33px;
         
     }
@@ -352,10 +352,10 @@ body{
         padding: 30px;
         
         
-    }
+    } */
     .featured-desc{
         width: 300px;
-        margin: 20px 0px;
+       
     }  
    
     .movie-list{   
